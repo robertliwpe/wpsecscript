@@ -1,7 +1,7 @@
 # AIO WordPress Security Scan Script
 All in one WP CLI Security Scanning Script incorporating WP Scan and OWASP ZAP
 
-### Dependencies: Docker
+### Dependencies: Docker, Bash Terminal
 
 Ensure that you have installed and started Docker before use: https://docs.docker.com/desktop/
 
