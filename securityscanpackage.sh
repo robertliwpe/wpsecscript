@@ -8,6 +8,7 @@ printf "This script will run an OWASP ZAP scan against targets with standard opt
 printf "\r\n\r\nIt will then use WP Scan for a WordPress specific audit. You will be given an option\r\n to enter a WP Scan API token."
 printf "\r\n\r\nYou can get a free API token with 25 daily requests by registering at\r\n\r\n https://wpscan.com/register/"
 printf "\r\n\r\nThis script will pull required Docker images & sudo user access may be required.\r\n"
+printf "\r\n\r\nYou can find the github repo at: https://github.com/robertliwpe/wpsecscript\r\n"
 printf "\r\n=====================================================================================\r\n"
 
 printf "\r\nIf you have a WP Scan API Token please enter it now otherwise just press ENTER:\r\n"
