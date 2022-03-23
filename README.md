@@ -5,7 +5,7 @@ All in one WP CLI Security Scanning Script incorporating WP Scan and OWASP ZAP
 
 Ensure that you have installed and started Docker before use: https://docs.docker.com/desktop/
 
-Right-click download: https://raw.githubusercontent.com/robertliwpe/wpsecscript/main/securityscanpackage.sh
+`git clone https://github.com/robertliwpe/wpsecscript`
 
 Download the included shell script file and give executable permissions to it by running `chmod +x securityscanpackage.sh` while in the same directory. You can execute by simply referring to it in terminal: `./securityscanpackage.sh`
 
